@@ -57,6 +57,16 @@
             <version>2.3.0</version>
         </dependency>
 
+
+
+        <!--Dependencia web3j para usar Google Cloud Blockchain-->
+        <dependency>
+            <groupId>org.web3j</groupId>
+            <artifactId>core</artifactId>
+            <version>4.9.4</version>
+        </dependency>
+
+
     </dependencies>
 
     <properties>
